@@ -1,1 +1,2 @@
-# Welcome to ALX
+# Welcome to ALX 
+## school of programming
